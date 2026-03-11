@@ -1,0 +1,5 @@
+{
+  "name": "NetEase Playlist Exporter",
+  "description": "Export tracks from NetEase Cloud Music playlists to CSV, JSON, or Text.",
+  "requestFramePermissions": []
+}
